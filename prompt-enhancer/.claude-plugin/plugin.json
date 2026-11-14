@@ -1,0 +1,1 @@
+{ "name": "prompt-enhancer", "version": "0.1.0", "description": "Botón que convierte una idea corta en un prompt completo", "types": "./types/index.d.ts" }

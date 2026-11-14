@@ -1,0 +1,11 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "Thomas Lescano" },
+  "plugins": [
+    { "name": "prompt-enhancer", "source": "./prompt-enhancer", "description": "Convierte una idea corta en un prompt completo" },
+    { "name": "modelo-justo", "source": "./modelo-justo", "description": "Elige Haiku, Sonnet u Opus según la dificultad de cada tarea" },
+    { "name": "usage-meter", "source": "./usage-meter", "description": "Uso de la ventana de 5 horas y cuándo se reinicia" },
+    { "name": "context-bar", "source": "./context-bar", "description": "Qué ocupa la conversación y cuándo conviene empezar otra" },
+    { "name": "mission-control", "source": "./mission-control", "description": "Panel en vivo con los agentes trabajando" }
+  ]
+}

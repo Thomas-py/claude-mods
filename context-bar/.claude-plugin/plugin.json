@@ -1,0 +1,1 @@
+{ "name": "context-bar", "version": "0.1.0", "description": "Qué ocupa la conversación y cuándo conviene empezar otra", "types": "./types/index.d.ts" }

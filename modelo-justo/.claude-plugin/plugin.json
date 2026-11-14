@@ -1,0 +1,1 @@
+{ "name": "modelo-justo", "version": "0.1.0", "description": "Elige Haiku, Sonnet u Opus según lo difícil de cada tarea", "types": "./types/index.d.ts" }
